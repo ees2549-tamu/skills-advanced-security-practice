@@ -11,5 +11,5 @@ The information provided can assist developers on the required step-by-step setu
   - [Dependabot alerts](https://github.com/ees2549-tamu/skills-advanced-security-practice/blob/main/guides/dependabot-updates.md#dependabot-alerts)
   - [Grouped security updates](https://github.com/ees2549-tamu/skills-advanced-security-practice/blob/main/guides/dependabot-updates.md#how-do-i-enable-grouped-security-updates)
   - [Version updates](https://github.com/ees2549-tamu/skills-advanced-security-practice/blob/main/guides/dependabot-updates.md#how-do-i-enable-version-updates)
-- [Dependency Graph](https://github.com/ees2549-tamu/skills-advanced-security-practice/blob/main/guides/dependecy-graph.md)
+- [Dependency Graph](https://github.com/ees2549-tamu/skills-advanced-security-practice/blob/main/guides/dependency-graph.md)
 - [GraphQL API](https://github.com/ees2549-tamu/skills-advanced-security-practice/blob/main/guides/graphql-api.md)
